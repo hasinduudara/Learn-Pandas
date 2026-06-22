@@ -1,0 +1,7 @@
+[
+  {"Employee_ID": 101, "Name": "Anura", "Department": "Sales", "Age": 32, "Salary": 55000, "Performance_Rating": "A"},
+  {"Employee_ID": 102, "Name": "Nimal", "Department": "IT", "Age": 28, "Salary": 72000, "Performance_Rating": "B"},
+  {"Employee_ID": 103, "Name": "Kamal", "Department": "HR", "Age": 45, "Salary": 65000, "Performance_Rating": "A"},
+  {"Employee_ID": 104, "Name": "Ruwan", "Department": "IT", "Age": 35, "Salary": 85000, "Performance_Rating": "A"},
+  {"Employee_ID": 105, "Name": "Priyanka", "Department": "Marketing", "Age": 24, "Salary": 42000, "Performance_Rating": "C"}
+]
